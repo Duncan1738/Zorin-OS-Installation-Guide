@@ -60,7 +60,6 @@ sudo dd bs=4M if=zorin-os-*.iso of=/dev/sdX status=progress oflag=sync
 ---
 
 ### 3. Boot from USB
-
 1. Insert the USB into your PC
 2. Restart your computer
 3. Press the boot key (e.g., F2, F10, F12, DEL, or ESC) to open the Boot Menu
