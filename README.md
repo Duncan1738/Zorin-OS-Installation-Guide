@@ -55,7 +55,7 @@ Zorin OS is a fast, secure, and easy-to-use Linux distribution designed for peop
 
 ```bash
 sudo dd bs=4M if=zorin-os-*.iso of=/dev/sdX status=progress oflag=sync
-
+⚠️ Replace /dev/sdX with your actual USB device (check with lsblk)
 --- 
 ### 3. Boot from USB
 
