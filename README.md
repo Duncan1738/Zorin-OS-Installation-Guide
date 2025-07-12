@@ -5,7 +5,7 @@
 
 ---
 
-## 🖥️ What is Zorin OS?
+##  What is Zorin OS?
 
 Zorin OS is a fast, secure, and easy-to-use Linux distribution designed for people who are new to Linux. It has a familiar interface (like Windows or macOS), is privacy-friendly, and works well on both old and new hardware.
 
@@ -53,7 +53,7 @@ Zorin OS is a fast, secure, and easy-to-use Linux distribution designed for peop
 
 #### 🔹 On Linux (Using Terminal)
 
-```bash
+```python
 sudo dd bs=4M if=zorin-os-*.iso of=/dev/sdX status=progress oflag=sync
 ⚠️ Replace /dev/sdX with your actual USB device (check with lsblk)
 
