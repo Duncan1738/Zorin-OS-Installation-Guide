@@ -83,4 +83,7 @@ sudo dd bs=4M if=zorin-os-*.iso of=/dev/sdX status=progress oflag=sync
 1. Wait for installation to finish (~10–20 minutes)
 2. Remove the USB when prompted
 3. Reboot your PC
-4. Log in and enjoy Zorin OS! 🎉
+4. Log in and enjoy Zorin OS!
+
+---
+MIT licence
