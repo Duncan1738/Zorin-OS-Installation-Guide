@@ -11,7 +11,7 @@ Zorin OS is a fast, secure, and easy-to-use Linux distribution designed for peop
 
 ---
 
-## ✅ System Requirements
+## System Requirements
 
 **Zorin OS 16 Core / Pro:**
 - CPU: 1 GHz Dual Core – 64-bit
