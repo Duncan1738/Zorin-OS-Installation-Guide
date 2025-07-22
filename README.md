@@ -1,27 +1,5 @@
 
 
-##  What is Zorin OS?
-
-Zorin OS is a fast, secure, and easy-to-use Linux distribution designed for people who are new to Linux. It has a familiar interface (like Windows or macOS), is privacy-friendly, and works well on both old and new hardware.
-
----
-
-## System Requirements
-
-**Zorin OS 16 Core / Pro:**
-- CPU: 1 GHz Dual Core – 64-bit
-- RAM: 2 GB minimum (4 GB recommended)
-- Storage: 15 GB minimum (20 GB recommended)
-- Display: 800×600 resolution
-- USB port or DVD drive
-
-**Zorin OS Lite (for older PCs):**
-- CPU: 700 MHz Single Core – 64-bit or 32-bit
-- RAM: 512 MB minimum
-- Storage: 8 GB minimum
-
----
-
 ##  Installation Steps
 
 ### 1.  Download Zorin OS
