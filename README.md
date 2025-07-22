@@ -96,7 +96,7 @@ To reuse the USB flash drive after installation:
 
 ##  License
 
-This guide is provided as-is and free to use. Attribution appreciated!
+This guide is provided as-is and free to use. 
 
 ---
 
