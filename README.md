@@ -31,7 +31,7 @@ This repository provides a step-by-step guide for installing **Zorin OS**, eithe
 
 ---
 
-## 🔧 Step 3: Create a Bootable USB Drive
+##  Step 3: Create a Bootable USB Drive
 
 1. Download and install [balenaEtcher](https://www.balena.io/etcher/)
 2. Plug in your USB flash drive
