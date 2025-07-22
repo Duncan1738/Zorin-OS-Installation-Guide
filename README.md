@@ -39,7 +39,7 @@ This repository provides a step-by-step guide for installing **Zorin OS**, eithe
 4. Select the Zorin OS `.iso` file  
 5. Choose your USB drive as the target  
 6. Click **"Flash!"**
-[****](https://help.zorin.com/docs/getting-started/install-zorin-os/balenaEtcher-1.png)
+
 > **Note:** This will erase all data on the USB flash drive.
 
 ---
