@@ -89,7 +89,7 @@ To reuse the USB flash drive after installation:
 
 -  [Zorin OS Official Website](https://zorin.com/)
 -  [balenaEtcher USB Tool](https://www.balena.io/etcher/)
-- 📘 [Zorin OS Help & Documentation](https://zorin.com/help/)
+-  [Zorin OS Help & Documentation](https://zorin.com/help/)
 - 📎 [Manual Partitioning Guide](https://help.zorin.com/docs/getting-started/install-zorin-os/manual-partitioning/)
 
 ---
