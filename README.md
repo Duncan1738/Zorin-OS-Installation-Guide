@@ -16,7 +16,7 @@ This repository provides a step-by-step guide for installing **Zorin OS**, eithe
 
 ---
 
-## 📥 Step 1: Download Zorin OS
+##  Step 1: Download Zorin OS
 
 1. Visit the [Zorin OS download page](https://zorin.com/os/download/)
 2. Select your preferred edition and download the `.iso` file
