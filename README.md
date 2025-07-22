@@ -46,7 +46,7 @@ This repository provides a step-by-step guide for installing **Zorin OS**, eithe
 
 ---
 
-## 🚀 Step 4: Boot from USB
+##  Step 4: Boot from USB
 
 1. Power off the computer where you want to install Zorin OS
 2. Plug in the USB Install Drive
