@@ -85,7 +85,7 @@ To reuse the USB flash drive after installation:
 
 ---
 
-## 🔗 Resources
+##  Resources
 
 - 🔗 [Zorin OS Official Website](https://zorin.com/)
 - 🧰 [balenaEtcher USB Tool](https://www.balena.io/etcher/)
