@@ -24,7 +24,7 @@ This repository provides a step-by-step guide for installing **Zorin OS**, eithe
 
 ---
 
-## 💾 Step 2: Back Up Your Data (Optional)
+##  Step 2: Back Up Your Data (Optional)
 
 - Back up important files to an external drive or cloud storage
 - Installing a new OS can overwrite your current data
