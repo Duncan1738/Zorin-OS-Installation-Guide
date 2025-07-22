@@ -1,10 +1,10 @@
-# 🖥️ Zorin OS Installation Guide
+#  Zorin OS Installation Guide
 
 This repository provides a step-by-step guide for installing **Zorin OS**, either alongside your current operating system or as a standalone OS.
 
 ---
 
-## ✅ What You'll Need
+##  What You'll Need
 
 - A computer that meets [Zorin OS system requirements](https://zorin.com/os/download/)
 - A USB flash drive:
