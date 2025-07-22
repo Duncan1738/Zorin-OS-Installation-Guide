@@ -1,9 +1,4 @@
 
-#  Simple guide to intall Zorin OS 
-
-> A simple guide to help you download, create a bootable USB, and install **Zorin OS** on your PC or laptop. Ideal for beginners switching from Windows or macOS to Linux.
-
----
 
 ##  What is Zorin OS?
 
