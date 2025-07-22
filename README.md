@@ -76,7 +76,7 @@ This repository provides a step-by-step guide for installing **Zorin OS**, eithe
 
 ---
 
-## 🧹 Optional: Reuse Your USB Drive
+##  Optional: Reuse Your USB Drive
 
 To reuse the USB flash drive after installation:
 
