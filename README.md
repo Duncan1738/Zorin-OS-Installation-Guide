@@ -1,4 +1,3 @@
-
 # 🖥️ Zorin OS Installation Guide
 
 This repository provides a step-by-step guide for installing **Zorin OS**, either alongside your current operating system or as a standalone OS.
@@ -23,16 +22,12 @@ This repository provides a step-by-step guide for installing **Zorin OS**, eithe
 2. Select your preferred edition and download the `.iso` file
 3. Save it in your **Downloads** folder
 
-![Download Zorin OS](https://zorin.com/static/download-hero-core-2-6e229e9958ff.svg)
-
 ---
 
 ## 💾 Step 2: Back Up Your Data (Optional)
 
 - Back up important files to an external drive or cloud storage
 - Installing a new OS can overwrite your current data
-
-![Back Up Files](https://images.unsplash.com/photo-1607746882042-944635dfe10e?fit=crop&w=800&q=80)
 
 ---
 
@@ -44,8 +39,6 @@ This repository provides a step-by-step guide for installing **Zorin OS**, eithe
 4. Select the Zorin OS `.iso` file  
 5. Choose your USB drive as the target  
 6. Click **"Flash!"**
-
-![balenaEtcher Interface](https://raw.githubusercontent.com/balena-io/etcher/master/assets/img/screenshots/etcher.png)
 
 > **Note:** This will erase all data on the USB flash drive.
 
@@ -60,8 +53,6 @@ This repository provides a step-by-step guide for installing **Zorin OS**, eithe
 4. Select your USB device from the boot menu
 5. Choose **"Try or Install Zorin OS"**
 
-![Boot Menu Example](https://linuxhint.com/wp-content/uploads/2020/09/Figure-1-Boot-from-USB.png)
-
 > If you have an NVIDIA GPU, select the option with **modern NVIDIA drivers**.
 
 ---
@@ -69,18 +60,12 @@ This repository provides a step-by-step guide for installing **Zorin OS**, eithe
 ## 🖱️ Step 5: Install Zorin OS
 
 1. After booting into Zorin OS, click **"Install Zorin OS"**
-
-![Zorin OS Desktop](https://zorin.com/static/os-16-desktop-7d469e16feeb.png)
-
 2. Follow the on-screen instructions:
    - Connect to Wi-Fi
    - Choose installation type:
      - **Dual-boot**: "Install Zorin OS alongside [existing OS]"
      - **Erase all**: "Erase disk and install Zorin OS"
      - **Manual**: For advanced partitioning
-
-![Zorin OS Installer](https://www.linuxtechi.com/wp-content/uploads/2021/08/zorin-os-16-install-type.png)
-
 3. Complete the setup steps (location, keyboard layout, username, password)
 4. Click **"Install Now"** and wait for installation to finish
 5. Restart the computer when prompted
@@ -92,8 +77,6 @@ This repository provides a step-by-step guide for installing **Zorin OS**, eithe
 - Remove the USB drive after restart
 - Boot into your newly installed Zorin OS
 - Enjoy your Linux-powered experience!
-
-![Welcome to Zorin OS](https://zorin.com/static/welcome-1-155ddce50c68.png)
 
 ---
 
@@ -115,8 +98,8 @@ To reuse your USB flash drive, simply format it using:
 
 ## 💬 License
 
-This guide is open and free to use. Attribution appreciated.
+This guide is open and free to use. Attribution appreciated!
 
 ---
 
-**Made with ❤️ for Linux beginners and switchers.**
+**Made with ❤️ for Linux beginners.**
