@@ -100,4 +100,4 @@ This guide is provided as-is and free to use.
 
 ---
 
-**Made with ❤️ to help Linux beginners confidently install Zorin OS.**
+**for Linux beginners confidently install Zorin OS.**
