@@ -100,5 +100,5 @@ This guide is provided as-is and free to use.
 
 ---
 
-For Linux beginners to confidently install Zorin OS.
+
 **— For the love of Linux: Welcome to the open-source journey!**
