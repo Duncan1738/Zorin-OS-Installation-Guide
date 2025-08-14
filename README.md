@@ -94,11 +94,5 @@ To reuse the USB flash drive after installation:
 
 ---
 
-##  License
-
-This guide is provided as-is and free to use.
-
----
-
 
 **For the love of Linux: Welcome to the open-source journey!**
