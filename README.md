@@ -1,7 +1,6 @@
 #  Zorin OS Installation Guide
 
-This repository provides a step-by-step guide for installing **Zorin OS**, either alongside your current operating system or as a standalone OS
-
+This repository provides a step-by-step guide for installing **Zorin OS**, either alongside your current operating system or as a standalone OS.
 ---
 
 ##  What You'll Need
