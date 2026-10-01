@@ -1,10 +1,10 @@
-#  Zorin OS Installation Guide
+# Zorin OS Installation Guide
 
 This repository provides a step-by-step guide for installing **Zorin OS**, either alongside your current operating system or as a standalone OS.
 
 ---
 
-##  What You'll Need
+## What You'll Need
 
 - A computer that meets [Zorin OS system requirements](https://zorin.com/os/download/)
 - A USB flash drive:
@@ -16,7 +16,7 @@ This repository provides a step-by-step guide for installing **Zorin OS**, eithe
 
 ---
 
-##  Step 1: Download Zorin OS
+## Step 1: Download Zorin OS
 
 1. Visit the [Zorin OS download page](https://zorin.com/os/download/)
 2. Select your preferred edition and download the `.iso` file
@@ -24,14 +24,14 @@ This repository provides a step-by-step guide for installing **Zorin OS**, eithe
 
 ---
 
-##  Step 2: Back Up Your Data (Optional)
+## Step 2: Back Up Your Data (Optional)
 
 - Back up important files to an external drive or cloud storage
 - Installing a new OS can overwrite your current data
 
 ---
 
-##  Step 3: Create a Bootable USB Drive
+## Step 3: Create a Bootable USB Drive
 
 1. Download and install [balenaEtcher](https://www.balena.io/etcher/)
 2. Plug in your USB flash drive
@@ -46,7 +46,7 @@ This repository provides a step-by-step guide for installing **Zorin OS**, eithe
 
 ---
 
-##  Step 4: Boot from USB
+## Step 4: Boot from USB
 
 1. Power off the computer where you want to install Zorin OS
 2. Plug in the USB Install Drive
@@ -59,9 +59,9 @@ This repository provides a step-by-step guide for installing **Zorin OS**, eithe
 
 ---
 
-## 🖱️ Step 5: Install Zorin OS
+## Step 5: Install Zorin OS
 
-1. Once booted into Zorin OS, click **"Install Zorin OS"**
+1. Once booted into Zorin OS, click **"Install Zorin OS"**  
    ![Welcome Menu](https://help.zorin.com/docs/getting-started/install-zorin-os/welcome-menu.png)
 2. Follow the on-screen instructions:
    - Connect to Wi-Fi (recommended)
@@ -71,12 +71,12 @@ This repository provides a step-by-step guide for installing **Zorin OS**, eithe
      - `"Something else"` (manual partitioning for advanced users)
 3. Continue setup: location, keyboard, username, password
 4. Click `Install Now` and wait for it to finish
-5. Restart your computer when prompted
+5. Restart your computer when prompted  
    ![Installer](https://help.zorin.com/docs/getting-started/install-zorin-os/installer.png)
 
 ---
 
-##  Optional: Reuse Your USB Drive
+## Optional: Reuse Your USB Drive
 
 To reuse the USB flash drive after installation:
 
@@ -85,14 +85,13 @@ To reuse the USB flash drive after installation:
 
 ---
 
-##  Resources
+## Resources
 
--  [Zorin OS Official Website](https://zorin.com/)
--  [balenaEtcher USB Tool](https://www.balena.io/etcher/)
--  [Zorin OS Help & Documentation](https://zorin.com/help/)
--  [Manual Partitioning Guide](https://help.zorin.com/docs/getting-started/install-zorin-os/manual-partitioning/)
+- [Zorin OS Official Website](https://zorin.com/)
+- [balenaEtcher USB Tool](https://www.balena.io/etcher/)
+- [Zorin OS Help & Documentation](https://zorin.com/help/)
+- [Manual Partitioning Guide](https://help.zorin.com/docs/getting-started/install-zorin-os/manual-partitioning/)
 
 ---
-
 
 **For the love of Linux: Welcome to the open-source journey!**
